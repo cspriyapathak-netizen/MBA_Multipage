@@ -1,0 +1,69 @@
+---
+title: "Home"
+format: html
+freeze: false
+---
+  <img src="banner.jpg" class="banner-img">
+  <img src="./myphoto.jpg" class="profile-pic">
+<div class="hero-banner">
+  <div class="hero-text">
+
+       
+  </div>
+</div>
+
+<style>
+.hero-banner {
+  position: relative;
+  text-align: center;
+}
+
+.banner-img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 0 0 12px 12px;
+}
+
+.hero-text {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-shadow: 0px 2px 8px rgba(0,0,0,0.5);
+}
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 4px solid white;
+  margin-bottom: 12px;
+}
+</style>
+---
+title: "Welcome"
+format: html
+---
+::: {.columns}
+::: {.column width="40%"}
+<!-- left side empty -->
+:::
+
+::: {.column width="60%"}
+# 👋 Hello — I’m Priya Pathak
+### MBA Candidate | Finance & Business Analytics
+
+I am an MBA candidate at University Canada West, specializing in Finance and Business Analytics, driven by a passion for turning data-driven insights into real business impact. Coming from a background where analytical thinking and ethical decision-making were always valued, I’ve grown into someone who thrives in structured problem-solving and meaningful decision-making.
+
+I started my journey with a strong interest in understanding how businesses create value — and over time, finance, forecasting, and cost optimization became the areas where I found both challenge and purpose. As a parent and a full-time student, my experiences have shaped my resilience, discipline, and ability to manage complexity with clarity and calm.
+
+Today, I am building my career at the intersection of finance, analytics, and technology, where numbers tell stories and strategy creates transformation. I’m particularly drawn to roles that allow me to analyze performance, improve efficiency, and support data-informed decisions that contribute to long-term growth.
+
+Outside academics, I value simplicity, continuous learning, and creative thinking — qualities that help me connect business problems with practical, real-world solutions. My goal is to grow into a finance and analytics professional who contributes to sustainable, thoughtful, and effective business decisions.
+:::
+:::
+
+
+

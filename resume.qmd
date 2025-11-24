@@ -1,0 +1,91 @@
+---
+title: "Resume"
+format: html
+---
+
+
+<details class="fancy" open>
+  <summary><strong>Education</strong></summary>
+  
+### Master of Business Administration — Finance & Business Analytics (2025–2026)  
+**University Canada West, Vancouver**
+
+- Strong academic performance in Financial Management, Corporate Finance, Business Analytics, and Quantitative Decision Making.
+- Built advanced models using NPV, IRR, profitability index, and multi-scenario sensitivity analysis to support strategic capital decisions.
+- Completed applied financial projects including forecasting, cost optimization, and performance evaluation studies.
+- Developing expertise in evidence-based management, risk evaluation, and analytical frameworks supporting corporate strategy.
+
+### Bachelor of Commerce — Accounting & Finance (2011) 
+**Mumbai University, India**
+
+- Graduated First Rank with academic distinction in finance and accounting coursework.
+- Developed core competencies in financial reporting, management accounting, corporate finance, and regulatory compliance.
+- Strengthened analytical skills through work in taxation, audit, financial statement interpretation, and quantitative analysis. 
+- Gained foundational expertise in financial reporting, audit, corporate finance, and taxation.
+
+</details>
+
+<details class="fancy">
+  <summary><strong>Professional Experience</strong></summary>
+
+### Graduate Projects & Applied Learning — University Canada West (2024–Present)
+
+- Conducted comprehensive capital budgeting evaluations using NPV, IRR, sensitivity, and payback metrics.
+- Collaborated on case studies examining organizational performance, cost efficiency, and risk exposure.
+- Developed budgeting models, variance analyses, and multi-year financial forecasts.
+- Applied structured project management to ensure timely deliverables and clear communication.
+- Utilized financial analytics tools to support managerial decisions around cost control and profitability.
+
+### Freelance Financial Analyst (2021–2023)
+
+- Designed interactive financial forecasting dashboards in Excel and Power BI, improving client budgeting accuracy by up to 20%.
+- Produced financial statements, cash-flow analyses, and variance reports to strengthen strategic planning for small businesses.
+- Delivered tailored insights on pricing, cost structure, and profit improvement.
+- Built scenario-based financial models to support growth and risk evaluation.
+- Supported clients with proper financial documentation aligned with accounting standards.
+
+</details>
+
+<details class="fancy">
+  <summary><strong>Core Skills & Competencies</strong></summary>
+ 
+### Financial & Analytical Skills  
+- Financial Modelling & Forecasting
+- Corporate Finance & Valuation
+- Capital Budgeting (NPV, IRR, Payback, Sensitivity Analysis)
+- Cost Management & Budgeting
+- Scenario Planning & Performance Evaluation
+- Financial Reporting & Documentation 
+
+### Data & Technical Skills  
+- Excel (Advanced): Power Query, Solver, Dashboards, PivotTables
+- Power BI: DAX, interactive dashboards, data modelling
+- Tableau: data storytelling and visualization
+- Forecasting & quantitative analytics
+
+### Business & Leadership Skills  
+- Project coordination & workflow management
+- Professional communication (reports & presentations)
+- Leadership and teamwork in multicultural environments
+- Conflict resolution & collaborative problem-solving
+- Ethical decision-making and a high degree of accuracy 
+</details>
+
+<details class="fancy">
+  <summary><strong>Volunteer Experience</strong></summary>
+
+### Event Support — Primary School Programs (2023-2025)  
+- Assisted teachers and staff in organizing academic and cultural events for primary school students.
+- Helped coordinate student participation, manage event logistics, and support smooth event flow.
+- Contributed to creating an engaging and supportive environment for young learners.
+- Strengthened teamwork, communication, and leadership skills through community involvement.
+
+### Event Organizer — College Events (2009- 2011)  
+- Actively participated in planning and executing college events, including seminars, cultural festivals, and student-led competitions.
+- Managed registration, scheduling, and coordination with faculty and student committees.
+- Assisted with stage management, logistics, and crowd coordination to ensure successful event execution.
+- Demonstrated initiative, organization, and collaboration in a fast-paced environment.
+</details>
+
+
+

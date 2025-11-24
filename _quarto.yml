@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Priya Pathak"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Resume"
+        href: resume.html
+      - text: "Projects"
+        href: projects.html
+      - text: "Skills"
+        href: skills.html
+      - text: "Contact"
+        href: contact.html
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: false
+    page-layout: article

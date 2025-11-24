@@ -1,0 +1,71 @@
+---
+title: "Projects & Case Studies"
+format: html
+---
+
+---
+
+::: {.columns}
+::: {.column width="30%"}
+## **Capital Investment Analysis**  
+**Lunchbox Inc. (2025)**
+:::
+
+::: {.column width="70%"}
+A comprehensive financial evaluation comparing two capital investment pathways for next-generation sound-engineering software.
+
+**Key Contributions:**
+- Built a capital budgeting model including projected cash flows, discounting schedules, and risk adjustments.
+- Performed **NPV, IRR, payback period**, and **sensitivity analysis** across multiple scenarios.
+- Analyzed development delays, cost overruns, and revenue uncertainty.
+- Recommended the alternative offering the strongest long-term value creation.
+
+**Tools:** Excel (advanced formulas, data tables), financial modelling frameworks.
+:::
+:::
+
+<hr style="border: 1px solid #ddd; margin: 2rem 0;">
+
+---
+
+::: {.columns}
+::: {.column width="30%"}
+## **Financial Modelling & Forecasting**  
+**Project (2024)**
+:::
+
+::: {.column width="70%"}
+Developed a multi-sheet Excel model to support long-term strategic planning and budget forecasting for a mid-sized firm.
+
+**Key Contributions:**
+- Forecasted revenue, COGS, OPEX, and working capital over multiple years.
+- Built a scenario analysis dashboard (best-case, base-case, worst-case).
+- Integrated KPI summaries, variance tables, and dynamic charts.
+- Identified cost-optimization opportunities and improved budgeting transparency.
+
+**Tools:** Excel, PivotTables, What-If Analysis, Dashboard Visualizations.
+:::
+:::
+
+<hr style="border: 1px solid #ddd; margin: 2rem 0;">
+
+---
+
+::: {.columns}
+::: {.column width="30%"}
+## **FinTech Research & Analysis**  
+**Industry Impact Study (2025)**
+:::
+
+::: {.column width="70%"}
+A research-driven examination of how emerging technologies are transforming financial operations across different business sizes.
+
+**Key Contributions:**
+- Investigated digital payments, AI-credit scoring, blockchain applications, and real-time analytics.
+- Evaluated benefits including efficiency, liquidity improvements, and enhanced customer experience.
+- Analyzed regulatory, cybersecurity, and change management challenges for SMEs.
+- Delivered a comprehensive report assessing operational and financial risk implications.
+
+**Methods:** Literature review, industry analysis, comparative evaluation.
+:::
+:::

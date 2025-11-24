@@ -1,0 +1,42 @@
+---
+title: "Skills & Competencies"
+format: html
+---
+
+## Financial & Analytical Expertise
+
+**Investment Appraisal & Capital Budgeting:** Skilled in evaluating project feasibility using NPV, IRR, Payback Period, Discounted Cash Flow (DCF), and multi-scenario sensitivity testing.
+
+**Financial Modelling:** Experienced in building structured, assumption-driven Excel models incorporating revenue forecasting, cost structures, cash-flow projections, and valuation metrics.
+
+**Budget Development & Variance Analysis:** Ability to create annual and project-based budgets, track performance, identify cost deviations, and recommend optimization strategies.
+
+**Risk & Sensitivity Assessment:** Adept at analyzing uncertainties across operating, financial, and market variables to support informed managerial decision-making.
+
+**Business Performance Evaluation:** Capable of interpreting financial statements, KPI dashboards, and operational metrics to assess profitability and efficiency.
+
+---
+
+## Tools & Technology Proficiency
+
+- **Excel (Advanced):** Power Query, Solver, dashboards, data validation, VLOOKUP/XLOOKUP, INDEX–MATCH, PivotTables, What-If Analysis, Data Validation, Power Query, Scenario Manager  
+- **Power BI:** Data modeling, DAX formulas, interactive visual reports, and automated dashboards for business intelligence.  
+- **Tableau:** Data visualization, trend analysis, KPI reporting, and creating interactive business insights.
+- **Quantitative Methods:** Familiar with statistical techniques, forecasting methods, and data-driven decision frameworks. 
+- **Collaboration Tools:** Teams, Trello, Notion, Google Workspace, and project tracking tools.  
+
+---
+
+## Leadership & Professional Skills
+
+**Project Coordination & Team Execution:** Strong experience managing timelines, deliverables, and multi-person workflows in team-based project settings.
+
+**Cross-Cultural & Professional Communication:** Skilled in presenting analytical insights clearly to diverse audiences and adapting communication for stakeholders.
+
+**Leadership & Initiative:** Demonstrated ability to take lead roles in academic, volunteer, and project environments; proactive in problem-solving and task ownership.
+
+**Conflict Resolution & Collaboration:** Capable of fostering teamwork, managing disagreements, and ensuring productive group outcomes.
+
+**Time & Quality Management:** Strong organizational skills with the ability to deliver high-quality work under tight deadlines.
+
+**Ethical Decision-Making:** Committed to integrity, responsible financial judgment, and adherence to professional standards.

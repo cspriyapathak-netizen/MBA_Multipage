@@ -1,0 +1,68 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
+body { font-family: 'Montserrat', sans-serif; }
+
+
+/* Apply font to entire website */
+body {
+  font-family: 'Poppins', sans-serif;
+}
+h1, h2 {
+  font-weight: 600;
+}
+
+body {
+  line-height: 1.6;
+}
+
+img {
+  border-radius: 8px;
+}
+details.fancy {
+  border: 2px solid rgba(255, 255, 255, 0.7);
+  border-radius: 14px;
+  padding: 1.2em 1.4em;
+  margin: 1.2em 0;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(4px);
+  color: #fff; /* text stays readable on blue bg */
+}
+
+/* When opened, lighten the panel */
+details.fancy[open] {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+/* Summary (title) */
+details.fancy summary {
+  cursor: pointer;
+  font-size: 1.35rem;      /* larger for readability */
+  font-weight: 800;        /* bold for projection */
+  color: #ffffff;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.4);
+  list-style: none;
+}
+
+/* Remove default triangle arrow (browsers vary) */
+details.fancy summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Add custom arrow */
+details.fancy summary::before {
+  content: "▶ ";
+  font-size: 1.2rem;
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+/* Rotate arrow when open */
+details.fancy[open] summary::before {
+  transform: rotate(90deg);
+}
+
+/* Hover/focus for accessibility */
+details.fancy summary:hover,
+details.fancy summary:focus {
+  color: #fffdcc; /* warm yellow for contrast on blue */
+}
